@@ -3,6 +3,5 @@ Rakam olarak girilen sayıyı metin olarak çevirme işlemi yapan kod parçacı�
 
 
 # Example
-Sayiyi Giriniz :1234
-
-BinIkiYuzOtuzDort
+>>Sayiyi Giriniz :1234
+>>BinIkiYuzOtuzDort
