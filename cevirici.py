@@ -4,6 +4,8 @@ import math
 #Yazimizda anlattigimiz uc haneli okuma islemlerini
 #bu fonksiyon altında yapacagiz.
 
+# Uc haneli sayilarimizi okumasi icin ucHaneOku adinda bir fonk.
+#olusturduk.
 def ucHaneOku(sayi): #uc haneli sayimizi disarında sayi diye aldik
     # Sayi tanimlamalari yaptik. Bunlari sozluk olarak kayit ettik.
     birler = {"0":"","1":"Bir","2":"Iki","3":"Uc","4":"Dort","5":"Bes","6":"Alti","7":"Yedi","8":"Sekiz","9":"Dokuz"}
